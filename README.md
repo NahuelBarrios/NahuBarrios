@@ -1,13 +1,14 @@
-# NahuBarrios
+<h1 align="center">Hi 👋, I'm Nahuel Barrios</h1>
+<h3 align="center">Backend Developer Java</h3>
 
-##
-![Java-ED8B00_style=for-the-badge logo=java logoColor=white](https://user-images.githubusercontent.com/52472582/163069351-2622366e-1c9b-49c3-9a42-d3a731ccfb97.png)
-![Spring-6DB33F_style=for-the-badge logo=spring logoColor=white](https://user-images.githubusercontent.com/52472582/163069475-3732fda1-439c-4d4b-82cb-db97123bbbdb.png)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48696265726e6174652d3539363636433f7374796c653d666f722d7468652d6261646765266c6f676f3d48696265726e617465266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/52472582/163069597-20f32b48-4193-4718-b949-f88f30f6b1ba.svg)
-![LinkedIn-0077B5_style=for-the-badge logo=linkedin logoColor=white](https://user-images.githubusercontent.com/52472582/163069677-49e9b7f3-1b54-4633-a7a0-042f580714e7.png)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3030353243433f7374796c653d666f722d7468652d6261646765266c6f676f3d4a697261266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/52472582/163069818-3c9ce973-40d3-4dd4-8804-d256e8d9cd6b.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e675f53656375726974792d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d537072696e672d5365637572697479266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/52472582/163069988-88a207eb-2de9-4fc5-a464-92df82fd77da.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c694a5f494445412d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/52472582/163070095-7397db6f-f610-40fc-b3de-50aa57ee328a.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a57542d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4a534f4e253230776562253230746f6b656e73266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/52472582/163070151-01e4a44c-5957-4c0d-ac83-118d0e9dda74.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/52472582/163070262-538c3c98-a888-4b4e-b4eb-80ed1eb2b12a.svg)
+- 🔭 I’m currently working on **Java, Hibernate, SpringBoot, maven, MySql**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/walter-nahuel-barrios-0373141b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/walter-nahuel-barrios-0373141b1/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelbarrios&layout=compact)](https://github.com/nahuelbarrios/)
